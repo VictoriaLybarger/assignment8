@@ -1,0 +1,22 @@
+*{
+    margin:3px;
+    background-color: rgb(250, 180, 94);
+    font-family: serif;
+    color: rgb(133, 79, 12);
+    font-size: 20px;
+}
+
+.chat-stream{
+    margin:0;
+    height: 90vh;
+
+    font-family: sans-serif;
+
+    background-color: bisque;
+    color: rgb(138, 80, 9);
+
+    display: flex;
+    align-items: flex-end;
+
+    overflow: hidden;
+}
